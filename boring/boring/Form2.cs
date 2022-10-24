@@ -12,7 +12,7 @@ namespace boring
 {
     public partial class Form2 : Form
     {
-        Bitmap img = new Bitmap(@"C:\Users\Bysky\Desktop\git-hub\c#\5dd210151931ac0aa59b74a070197896.png");
+        Bitmap img = new Bitmap(@"C:\Users\Bysky\Desktop\git-hub\c#-boring_project\5dd210151931ac0aa59b74a070197896.png");
         int i;
 
         public Form2()
