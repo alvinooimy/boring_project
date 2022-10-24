@@ -1,0 +1,10 @@
+C:\Users\Bysky\Desktop\c#\savetextbox\savetextbox\bin\Debug\savetextbox.exe.config
+C:\Users\Bysky\Desktop\c#\savetextbox\savetextbox\bin\Debug\savetextbox.exe
+C:\Users\Bysky\Desktop\c#\savetextbox\savetextbox\bin\Debug\savetextbox.pdb
+C:\Users\Bysky\Desktop\c#\savetextbox\savetextbox\obj\Debug\savetextbox.csprojAssemblyReference.cache
+C:\Users\Bysky\Desktop\c#\savetextbox\savetextbox\obj\Debug\savetextbox.Properties.Resources.resources
+C:\Users\Bysky\Desktop\c#\savetextbox\savetextbox\obj\Debug\savetextbox.csproj.GenerateResource.cache
+C:\Users\Bysky\Desktop\c#\savetextbox\savetextbox\obj\Debug\savetextbox.csproj.CoreCompileInputs.cache
+C:\Users\Bysky\Desktop\c#\savetextbox\savetextbox\obj\Debug\savetextbox.exe
+C:\Users\Bysky\Desktop\c#\savetextbox\savetextbox\obj\Debug\savetextbox.pdb
+C:\Users\Bysky\Desktop\c#\savetextbox\savetextbox\obj\Debug\savetextbox.Form1.resources

@@ -1,0 +1,11 @@
+C:\Users\Bysky\Desktop\c#\lottery\lottery\bin\Debug\lottery.exe.config
+C:\Users\Bysky\Desktop\c#\lottery\lottery\bin\Debug\lottery.exe
+C:\Users\Bysky\Desktop\c#\lottery\lottery\bin\Debug\lottery.pdb
+C:\Users\Bysky\Desktop\c#\lottery\lottery\obj\Debug\lottery.Form1.resources
+C:\Users\Bysky\Desktop\c#\lottery\lottery\obj\Debug\lottery.Properties.Resources.resources
+C:\Users\Bysky\Desktop\c#\lottery\lottery\obj\Debug\lottery.csproj.GenerateResource.cache
+C:\Users\Bysky\Desktop\c#\lottery\lottery\obj\Debug\lottery.csproj.CoreCompileInputs.cache
+C:\Users\Bysky\Desktop\c#\lottery\lottery\obj\Debug\lottery.exe
+C:\Users\Bysky\Desktop\c#\lottery\lottery\obj\Debug\lottery.pdb
+C:\Users\Bysky\Desktop\c#\lottery\lottery\obj\Debug\lottery.csprojAssemblyReference.cache
+C:\Users\Bysky\Desktop\c#\lottery\lottery\obj\Debug\lottery.Form2.resources
